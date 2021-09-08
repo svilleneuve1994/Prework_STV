@@ -1,0 +1,97 @@
+.text-center {
+    text-align: center;
+}
+
+.tc-red {
+    color: red
+}
+
+.tc-blue {
+    color: blue
+}
+
+.tc-green {
+    color: green
+}
+
+.fs-xxlarge {
+    font-size: xx-large
+}
+
+.fs-xsmall {
+    font-size: x-small
+}
+
+.fw-bold {
+    font-weight: bold
+}
+
+.ff-sanserif {
+    font-family: sans-serif
+}
+
+.creamsicle {
+    color: orange;
+    font-size: x-large;
+    font-weight: bold
+}
+
+.styledFont {
+    color: green;
+    font-family: sans-serif
+}
+
+#styledImage {
+    border: solid 8px #ffb433
+}
+
+
+/* fanpage style */
+
+
+.am-body {
+  background: url("https://wallpapercave.com/wp/wp5701961.png") no-repeat fixed center; 
+  background-size: cover;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.am-body h1,
+.am-body h2,
+.am-body h3,
+.am-body h4 {
+  text-decoration: underline
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0
+}
+
+.card {
+  width: 75%;
+  padding: 15px 50px 25px 50px;
+  margin: auto;
+  margin-bottom: 20px; 
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+#am-top5 {
+    margin: auto
+}
+
+#am-top5 tr th {
+  padding: 5px 40px 5px 40px;
+  text-align: left;
+}
+
+a {
+  color:#00FF00;
+  text-decoration: none;
+}
+
+a:visited {color:#00FF00;}
+a:hover {color:#FF00FF;}
+a:active {color:#00FF00;}
